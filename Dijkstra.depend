@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1571082196 source:c:\users\jldg0\documents\codeblocksprojects\files to pro multicore\dijkstra\main.cpp
+	<iostream>
+	<queue>
+	<vector>
+	<omp.h>
+
